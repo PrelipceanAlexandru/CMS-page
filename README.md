@@ -5,3 +5,9 @@ I developed a content management system application using Rails 5 used for:
 * managing customers
 
 The application was hosted on Amazon EC2 Instance
+
+## Customer
+CRUD operation for customer
+
+IMAGE
+
