@@ -24,6 +24,10 @@ VTP form
 
 ![](images/Customer-create-vtp.png)
 
+Generated PDF after the form is completed(snippet)
+
+![](images/VTP-pdf.png)
+
 Gas Veriffication CRUD opperations
 
 ![](images/Customer-gas-v-show.png)
@@ -32,7 +36,9 @@ Gas Veriffication
 
 ![](images/Customer-gas-verification.png)
 
+Generated PDF after the form is completed(snippet)
 
+![](images/pdf-gas-v.png)
 
 
 
