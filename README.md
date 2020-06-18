@@ -20,7 +20,7 @@ VTP CRUD opperations
 
 ![](images/Customer-all-vtp.png)
 
-VTP form
+VTP form(snippet)
 
 ![](images/Customer-create-vtp.png)
 
@@ -32,7 +32,7 @@ Gas Veriffication CRUD opperations
 
 ![](images/Customer-gas-v-show.png)
 
-Gas Veriffication
+Gas Veriffication form(snippet)
 
 ![](images/Customer-gas-verification.png)
 
