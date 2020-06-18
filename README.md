@@ -45,7 +45,9 @@ Generated PDF after the form is completed(snippet)
 In this application I added 2 types of users
   * Admin user
   * Normal user
+  
 As admin you can see and modify everything in the applicatino
+
 As normal user you can modify customer details, add and modify VTP and Gas Veriffication
 
 **as admin user**
