@@ -40,5 +40,40 @@ Generated PDF after the form is completed(snippet)
 
 ![](images/pdf-gas-v.png)
 
+## Users
+
+In this application I added 2 types of users
+  * Admin user
+  * Normal user
+As admin you can see and modify everything in the applicatino
+As normal user you can modify customer details, add and modify VTP and Gas Veriffication
+
+**as admin user**
+
+![](images/user.png)
+
+**as normal user**
+
+![](images/user-no.png)
+
+## Analyzer
+
+This is a tool used to verify gas instalation 
+
+CRUD opperations for analizer
+
+![](images/Analizer.png)
+
+## Company
+
+Company details 
+
+![](images/Company.png)
+
+
+
+
+
+
 
 
