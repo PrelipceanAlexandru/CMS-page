@@ -14,7 +14,7 @@ On the show page, we can manage customer's VTPs, gas verifications, addresses, c
 
 ![](images/Customer-show.png)
 
-Implemented CRUD opperations for VTP.
+Implemented CRUD operations for VTP.
 
 ![](images/Customer-all-vtp.png)
 
@@ -26,11 +26,11 @@ Generated PDF after the form is completed(snippet)
 
 ![](images/VTP-pdf.png)
 
-Implemented CRUD opperations for gas veriffication  
+Implemented CRUD operations for gas verification  
 
 ![](images/Customer-gas-v-show.png)
 
-Implemented gas veriffication form(snippet)
+Implemented gas verification form(snippet)
 
 ![](images/Customer-gas-verification.png)
 
