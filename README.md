@@ -1,26 +1,24 @@
 I developed a content management system application using Rails 5 used for: 
 
 * generating PDF for gas verification of central heating systems,
-* generating PDF for periodic technical verification form
+* generating PDF for periodic technical verification form,
 * managing customers
-
-The application was hosted on Amazon EC2 Instance
 
 ## Customer
 
-CRUD operation for customers
+Implemented CRUD operations for customers.
 
 ![](images/Customer.png)
 
-On show page we can manage customer's VTPs, Gas verification, addresses, combustion plants and gas installations.
+On the show page, we can manage customer's VTPs, gas verifications, addresses, combustion plants, and gas installations.
 
 ![](images/Customer-show.png)
 
-VTP CRUD opperations
+Implemented CRUD opperations for VTP.
 
 ![](images/Customer-all-vtp.png)
 
-VTP form(snippet)
+Implemented VTP form(snippet)
 
 ![](images/Customer-create-vtp.png)
 
@@ -28,11 +26,11 @@ Generated PDF after the form is completed(snippet)
 
 ![](images/VTP-pdf.png)
 
-Gas Veriffication CRUD opperations
+Implemented CRUD opperations for gas veriffication  
 
 ![](images/Customer-gas-v-show.png)
 
-Gas Veriffication form(snippet)
+Implemented gas veriffication form(snippet)
 
 ![](images/Customer-gas-verification.png)
 
@@ -42,27 +40,27 @@ Generated PDF after the form is completed(snippet)
 
 ## Users
 
-In this application I added 2 types of users
+In this application, I added two types of users
   * Admin user
   * Normal user
   
-As admin you can see and modify everything in the applicatino
+As an admin, you can see and modify everything in the application
 
-As normal user you can modify customer details, add and modify VTP and Gas Veriffication
+As a normal user, you can modify customers details, add and edit VTP and gas verification
 
-**as admin user**
+**as an admin user**
 
 ![](images/user.png)
 
-**as normal user**
+**as a normal user**
 
 ![](images/user-no.png)
 
 ## Analyzer
 
-This is a tool used to verify gas instalation 
+This is a tool used to verify the gas installation 
 
-CRUD opperations for analizer
+Implemented CRUD operations for analyzer
 
 ![](images/Analizer.png)
 
