@@ -4,7 +4,7 @@ I developed a content management system application using Rails 5 used for:
 * generating PDF for periodic technical verification form,
 * managing customers
 
-## Customer
+## Customers
 
 Implemented CRUD operations for customers.
 
@@ -56,7 +56,7 @@ As a normal user, you can modify customers details, add and edit VTP and gas ver
 
 ![](images/user-no.png)
 
-## Analyzer
+## Analyzers
 
 This is a tool used to verify the gas installation 
 
@@ -64,7 +64,7 @@ Implemented CRUD operations for analyzer
 
 ![](images/Analizer.png)
 
-## Company
+## Companies
 
 Company details 
 
